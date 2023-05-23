@@ -126,7 +126,7 @@ body{
 .rodape{
     color: var(--cor-botao);
     background-color: var(--cor-terciaria);
-    padding: 24px;
+    padding: 2% 0% 2% 0%;
     text-align: center;
     font-size: 1.5rem;
     font-family: var(--fonte-cabecalho);
@@ -192,11 +192,13 @@ body{
     font-size: 0.8rem;
 }  */
 
+/*
 @media(max-width: 479px){
     .apresentacao{
         background-color: grey;
     }
 }
+*/
 
 @media(max-width: 920px){
     .cabecalho{
